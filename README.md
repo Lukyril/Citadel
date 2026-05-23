@@ -20,6 +20,4 @@ so you can build higher up, making your city stretch towards the sky
 (refer to the backs of the tiles).
 - Create 11 equal stacks of tiles, placed face down (see on the right)[^1]. 
 
-[^1]: Note: For 2- or 3-player games, you can make the game longer by using all the
-tiles. If so, create 19 stacks (for a 2-player game), or 15 stacks (for a 3-player
-game).
+[^1]: Note: For 2- or 3-player games, you can make the game longer by using all the tiles. If so, create 19 stacks (for a 2-player game), or 15 stacks (for a 3-player game).
