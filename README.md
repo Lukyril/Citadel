@@ -1,1 +1,3 @@
-Overview and goal of the game
+# Citadel
+
+## Overview and goal of the game
